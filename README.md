@@ -26,9 +26,11 @@ I would love to join a project that involves image/video processing, natural lan
 - Computer Vision & Data Science... TensorFlow | OpenCV | Keras | scikit-learn | Tesseract | D3.js | pandas | statsmodels
 - Computer Graphics... OpenGL | WebGL
 
+---
 
 ### 📫 Contact Me 📫
 Send me an email at estherkim1721@gmail.com!
+
 
 <!--
 **estherkim99/estherkim99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
