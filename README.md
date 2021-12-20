@@ -1,8 +1,5 @@
 ##  Hi there 👋 Welcome to Esther's Github!
 
-> I'm currently seeking internship opportunities for Summer 2021 and newgrad full time opportunities for Winter 2021-22.
-
----
 
 ### ✨ My Interests ✨
 My primary areas of interests are:
@@ -25,11 +22,6 @@ I would love to join a project that involves image/video processing, natural lan
 - Databases... MySQL | MariaDB | SQLite | Firebase
 - Computer Vision & Data Science... TensorFlow | OpenCV | Keras | scikit-learn | Tesseract | D3.js | pandas | statsmodels
 - Computer Graphics... OpenGL | WebGL
-
----
-
-### 📫 Contact Me 📫
-Send me an email at estherkim1721@gmail.com!
 
 
 <!--
